@@ -5,6 +5,6 @@
 crested some random files and folders to see all functionality related to git and github works properly.
 
 ## Clone Repository
-'''bash
+```bash
 git clone https://github.com/Manjur30/Connection.git
-'''
+```
